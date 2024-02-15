@@ -1,0 +1,21 @@
+{
+  "name": "klean",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "klean": "./bin/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "find": "^0.3.0",
+    "yargs": "^17.7.2"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
